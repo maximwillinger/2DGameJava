@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391654ed-7a2d-4fe0-a679-6982e1f1c48c" name="Changes" comment="Made KeyHandler.java and modified GamePanel.java and Main.java">
-      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+    <list default="true" id="391654ed-7a2d-4fe0-a679-6982e1f1c48c" name="Changes" comment="Part 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/KeyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,7 @@
       <workItem from="1694411308809" duration="44000" />
       <workItem from="1695643666317" duration="21000" />
       <workItem from="1696411215583" duration="1058000" />
-      <workItem from="1696530258132" duration="2606000" />
+      <workItem from="1696530258132" duration="2675000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <option name="closed" value="true" />
@@ -107,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693928453712</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Part 3">
+      <option name="closed" value="true" />
+      <created>1696532925436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696532925436</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started" />
     <MESSAGE value="Made KeyHandler.java and modified GamePanel.java and Main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made KeyHandler.java and modified GamePanel.java and Main.java" />
+    <MESSAGE value="Part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 3" />
   </component>
 </project>
