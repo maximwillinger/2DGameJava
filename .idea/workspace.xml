@@ -4,20 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391654ed-7a2d-4fe0-a679-6982e1f1c48c" name="Changes" comment="Part 6">
-      <change afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Chest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/objects/boots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/objects/chest (OLD).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/objects/door.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/objects/key.png" afterDir="false" />
+    <list default="true" id="391654ed-7a2d-4fe0-a679-6982e1f1c48c" name="Changes" comment="Part 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CollisionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/maps/world01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/maps/world01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/object/OBJ_Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/object/SuperObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -109,7 +103,7 @@
       <workItem from="1696581310371" duration="949000" />
       <workItem from="1696606560648" duration="3517000" />
       <workItem from="1696625307369" duration="4664000" />
-      <workItem from="1696666824790" duration="2858000" />
+      <workItem from="1696666824790" duration="5244000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <option name="closed" value="true" />
@@ -207,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696666851735</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Part 7">
+      <option name="closed" value="true" />
+      <created>1696685077658</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696685077658</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +234,7 @@
     <MESSAGE value="Part 4" />
     <MESSAGE value="Part 5" />
     <MESSAGE value="Part 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 6" />
+    <MESSAGE value="Part 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 7" />
   </component>
 </project>
