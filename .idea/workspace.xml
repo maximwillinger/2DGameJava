@@ -4,48 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391654ed-7a2d-4fe0-a679-6982e1f1c48c" name="Changes" comment="Part 11">
-      <change afterPath="$PROJECT_DIR$/src/res/maps/worldV2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/floor01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/grass00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/grass01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/hut.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/road12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/table01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/res/tiles/water13.png" afterDir="false" />
+    <list default="true" id="391654ed-7a2d-4fe0-a679-6982e1f1c48c" name="Changes" comment="Part 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/tiles/earth.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/tiles/earth.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/tiles/grass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/tiles/sand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/tiles/tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/tiles/tree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/tiles/wall.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/tiles/wall.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/res/tiles/water.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +100,7 @@
       <workItem from="1696606560648" duration="3517000" />
       <workItem from="1696625307369" duration="4664000" />
       <workItem from="1696666824790" duration="11322000" />
-      <workItem from="1696712925913" duration="3338000" />
+      <workItem from="1696712925913" duration="3566000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <option name="closed" value="true" />
@@ -286,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696714800267</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Part 12">
+      <option name="closed" value="true" />
+      <created>1696716489933</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696716489933</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +284,7 @@
     <MESSAGE value="Part 9" />
     <MESSAGE value="Part 10" />
     <MESSAGE value="Part 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 11" />
+    <MESSAGE value="Part 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 12" />
   </component>
 </project>
